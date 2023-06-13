@@ -2,3 +2,4 @@ How do I use the head command in Linux?
 How to Use the Head Command
 Enter the head command, followed by the file of which you'd like to view: head /var/log/auth.log. ...
 To change the number of lines displayed, use the -n option: head -n 50 /var/log/auth.log.
+To change the number of lines displayed, use the -n option: head -n 50 /var/log/auth.log.
